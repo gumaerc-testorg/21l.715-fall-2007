@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The assignments section provides information about class assignments,
+  including oral reports, a formal write-up of an oral report, class participation,
+  a research paper prospectus, and a research paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
