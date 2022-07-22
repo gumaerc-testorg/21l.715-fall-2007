@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, grading, general expectations, and the course calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ddccf79d-2ea4-26a0-bfbb-ca8729efdd11
 ---
