@@ -51,7 +51,7 @@ Max, D. T. "The Oprah Effect." _The New York Times_, December 26, 1999.
 
 Young, John. "Toni Morrison, Oprah Winfrey, and Postmodern Popular Audiences." _African American Review_ 35, no. 2 (Summer 2001): 181-204.
 
-Video: [Oprah remembers Book Club History](http://www2.oprah.com/obc/video/obc_video_20020502_f.jhtml)
+Video: {{% resource_link "fea1775a-5088-4f5d-ad60-e41cfd56c2de" "Oprah remembers Book Club History" %}}
 
 
 {{< tdclose >}}
@@ -71,7 +71,7 @@ Illouz, Eva. "Pain and Circuses." Chapter 4 in _Oprah Winfrey and the Glamour of
 
 Barnard, Rita. "Oprah's Paton, or South Africa and the Globalization of Suffering." _Safundi_ 7, no. 3 (July 2006): 1-21.
 
-[Oprah's Archive of her Book Club choices](http://www2.oprah.com/obc/obc_landing.jhtml)
+{{% resource_link "69354282-028f-4090-a77c-949664629a87" "Oprah's Archive of her Book Club choices" %}}
 
 ### Suggested
 
@@ -79,7 +79,7 @@ McHenry, Elizabeth. _Forgotten Readers: Recovering the Lost History of African A
 
 ### Oprah vs. Franzen
 
-[Rejecting the Oprah Sticker](http://www.salon.com/2001/10/26/franzen_winfrey/): This is a brief piece about the tiff between Oprah and Jonathan Franzen, who is arguably one of those white male modernist writers that John Young talks about in his article. Their dispute developed after Franzen was less than enthusiastic about The Corrections being chosen for Oprah's Book Club. It still won a National Book Award. \[Miller, Laura. "Book Lovers' Quarrel." Salon.com, October 26, 2001.
+{{% resource_link "5917dcc4-c0e2-43d1-9034-d47a7a4f0a81" "Rejecting the Oprah Sticker" %}}: This is a brief piece about the tiff between Oprah and Jonathan Franzen, who is arguably one of those white male modernist writers that John Young talks about in his article. Their dispute developed after Franzen was less than enthusiastic about The Corrections being chosen for Oprah's Book Club. It still won a National Book Award. \[Miller, Laura. "Book Lovers' Quarrel." Salon.com, October 26, 2001.
 
 
 {{< tdclose >}}
@@ -99,7 +99,7 @@ Poulet, Georges. "Phenomenology of Reading." _New Literary History_ 1 (1969): 53
 
 Iser, Wolfgang. "Interaction Between Text and Reader." In _Prospecting: From Reader Response to Literary Anthropology_. Baltimore, MD: Johns Hopkins University Press, 1993 \[1989\], pp. 31-41. ISBN: 9780801845932.
 
-[Wikipedia: Phenomenology](http://en.wikipedia.org/wiki/Phenomenology)
+{{% resource_link "751b2a81-7123-4ebe-ae6e-530ea10005ce" "Wikipedia: Phenomenology" %}}
 
 
 {{< tdclose >}}
@@ -255,7 +255,7 @@ Reading as resistance I
 
 Cornelius, Janet Duitsman. "Slaves, Religion and Reading." In _When I Can Read My Title Clear: Literacy, Slavery, and Religion in the Antebellum South_. Columbia, SC: University of South Carolina Press, 1992, pp. 11-36, 154-159. ISBN: 9780872498716.
 
-Douglass, Frederick. Chapter VI in _Narrative of the Life of Frederick Douglass_. Edited by William L. Andrews and William S. McFeely. New York, NY: W.W. Norton, 1997, pp. 28-35. ISBN: 9780393969665. (The [e-text](http://www.gutenberg.org/etext/23) is available via of Project Gutenberg.)
+Douglass, Frederick. Chapter VI in _Narrative of the Life of Frederick Douglass_. Edited by William L. Andrews and William S. McFeely. New York, NY: W.W. Norton, 1997, pp. 28-35. ISBN: 9780393969665. (The {{% resource_link "133a862a-f83b-4d74-9bd0-14b233dada0a" "e-text" %}} is available via of Project Gutenberg.)
 
 ### Suggested
 
@@ -273,7 +273,7 @@ Henson, Josiah. In _The Life of Josiah Henson, Formerly a Slave, Now an Inhabita
 Reading as resistance II
 {{< tdclose >}}
 {{< tdopen >}}
-Class guest: [Professor Alisa Braithwaite](http://lit.mit.edu/lit2007-2008/people/abraithwaite.php)
+Class guest: {{% resource_link "df513789-b1cf-4109-8e1d-d287d1d2a745" "Professor Alisa Braithwaite" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -328,19 +328,19 @@ Fandom I
 Brown, Jeffrey. "Comic Book Fandom." _Black Superheroes, Milestone Comics, and Their Fans_. Jackson, MI: University of Mississippi Press, 2001, pp. 58-92, 205. ISBN: 9781578062829.  
 This is a wonderful piece. One of my favorite studies of fan behavior. The material about comics fans at their annual convention is priceless.
 
-Class Guest: [Jeet Heer](https://en.wikipedia.org/wiki/Jeet_Heer)
+Class Guest: {{% resource_link "eccc14ad-f016-4948-afb9-d138c9f4f4bb" "Jeet Heer" %}}
 
 ### Discussion of comics shop visit
 
 The following blogs feature debates that arise as the comic book industry deals with the state of comic book shops. Your task in reading these sites is threefold: follow this controversy and see what it says about fandom and about blogs as a medium; pay attention to gender, which is featured especially in the entry from Jennifer De Guzman (SLG-news); follow the discussion BEYOND these four links, and see where else the debate goes through links and comments. Come to class prepared to comment.
 
-> [The righteous anger of Eric Reynolds](https://www.comicsbeat.com/the-righteous-anger-of-eric-reynolds/) by Heidi MacDonald in The Beat: The News Blog of Comics Culture (September 1, 2007)
+> {{% resource_link "7fd46564-cbd4-4f1c-a602-d9f78cf26f92" "The righteous anger of Eric Reynolds" %}} by Heidi MacDonald in The Beat: The News Blog of Comics Culture (September 1, 2007)
 > 
-> [On being a grown-up in the comic-book industry](http://comics212.net/2007/09/03/on-being-a-grown-up-in-the-comic-book-industry/) by Christopher Butcher in Comics212 (September 3, 2007)
+> {{% resource_link "ac477161-a144-4122-b832-426a9a4f1343" "On being a grown-up in the comic-book industry" %}} by Christopher Butcher in Comics212 (September 3, 2007)
 > 
-> [Why Comic Shops Still Matter, Or At Least Why They Should](http://www.comicsreporter.com/index.php/cr_editorial_why_comic_shops_still_matter/) by Tom Spurgeon in The Comics Report (September 10, 2007)
+> {{% resource_link "5f53e3fb-39cf-4842-95e5-23da8c089b1d" "Why Comic Shops Still Matter, Or At Least Why They Should" %}} by Tom Spurgeon in The Comics Report (September 10, 2007)
 > 
-> [The State of Comic Shops](http://slg-news.livejournal.com/211942.html) by Jennider De Guzman in SLG: Better Comics Through Superior Firepower by SLG Publishing News (September 12, 2007)
+> {{% resource_link "713fccc6-5dac-494d-aa98-2ca0e730c77e" "The State of Comic Shops" %}} by Jennider De Guzman in SLG: Better Comics Through Superior Firepower by SLG Publishing News (September 12, 2007)
 
 
 {{< tdclose >}}
@@ -371,7 +371,7 @@ In addition to reading these two articles, you must also browse the internet for
 19
 {{< tdclose >}}
 {{< tdopen >}}
-A visit to the [Rare Books Department](https://www.bpl.org/rare-books-department/) at the [Boston Public Library](https://www.bpl.org/)
+A visit to the {{% resource_link "00e0b98b-5a8f-4d88-bf82-6136bf0311bf" "Rare Books Department" %}} at the {{% resource_link "2a685b07-8f26-443b-9e27-752a658eb3f1" "Boston Public Library" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 (no readings)
@@ -405,7 +405,7 @@ Brouillette, Sarah. "The Paperback." In _The Oxford Companion to the Book_. Fort
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-Out of class: Go visit a mega-chain bookstore, and watch [_You've Got Mail_](http://youvegotmail.warnerbros.com/).
+Out of class: Go visit a mega-chain bookstore, and watch {{% resource_link "3d052c70-102e-4aaf-b53a-0bf1b2fb89ab" "_You've Got Mail_" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -419,7 +419,7 @@ Bookstores, online and off-line
 {{< tdopen >}}
 
 
-Class Guest: [Laura J. Miller](http://www.brandeis.edu/facguide/person.html?emplid=e9b2f33a973c1bf5d9a713da50bfc429eb963ac2)
+Class Guest: {{% resource_link "cad373db-802f-4f97-b0da-e0869d3f8120" "Laura J. Miller" %}}
 
 Miller, Laura J. "Serving the Entertained Consumer: The Multifunction Bookstore." In _Reluctant Capitalists: Bookselling and the Culture of Consumption_. Chicago, IL: University of Chicago Press, 2006, pp. 104-139, 258-263. ISBN: 9780226525907.
 
@@ -445,7 +445,7 @@ FADS: reading as social engineering
 
 Fuller, Danielle, and DeNel Rehberg Sedo. "A Reading Spectacle for the Nation: The CBC and 'Canada Reads'." _Journal of Canadian Studies_ 40, no. 1 (Winter 2006): 5-36.
 
-After reading this article, visit the Library of Congress Web site ["One Book" Reading Promotion Projects](http://www.loc.gov/loc/cfbook/one-book.html) or find another way to learn about a citywide, regional, or national "mass reading" event that interests you. Learn something about it and come to class prepared to talk about it. See if you can find out who funds the program and who "benefits" from it.
+After reading this article, visit the Library of Congress Web site {{% resource_link "15121b6c-df64-40f3-81d0-e8fc49a5e152" "\"One Book\" Reading Promotion Projects" %}} or find another way to learn about a citywide, regional, or national "mass reading" event that interests you. Learn something about it and come to class prepared to talk about it. See if you can find out who funds the program and who "benefits" from it.
 
 
 {{< tdclose >}}
