@@ -88,7 +88,7 @@ General Expectations
 --------------------
 
 *   Attendance is mandatory. If you are going to be absent you must alert me in advance. Two absences are allowed. As the third is reached your grade will suffer. Consistent lateness is a form of absence.
-*   Plagiarism will be penalized with due severity. Literature's policy states: "students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work." For more, find the style guides at the MIT {{% resource_link "6bbc1f8e-7e30-437f-832a-d199bcb523fb" "Online Writing and Communication Center" %}}.
+*   Plagiarism will be penalized with due severity. Literature's policy states: "students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work." For more, find the style guides at the MIT [Online Writing and Communication Center](http://web.mit.edu/writing/index.html).
 *   Never bring food, mobile phones, or laptops to class. I will make an exception for your laptop if its use is class related.
 
 Calendar
@@ -343,7 +343,7 @@ Fandom II
 19
 {{< tdclose >}}
 {{< tdopen >}}
-A visit to the {{% resource_link "00e0b98b-5a8f-4d88-bf82-6136bf0311bf" "Rare Books Department" %}} at the {{% resource_link "2a685b07-8f26-443b-9e27-752a658eb3f1" "Boston Public Library" %}}
+A visit to the [Rare Books Department](https://www.bpl.org/rare-books-department/) at the [Boston Public Library](https://www.bpl.org/)
 {{< tdclose >}}
 {{< tdopen >}}
 Research prospectus due
@@ -370,7 +370,7 @@ Short paper on romance readers due
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-Out of class: Go visit a mega-chain bookstore, and watch {{% resource_link "3d052c70-102e-4aaf-b53a-0bf1b2fb89ab" "_You've Got Mail_" %}}
+Out of class: Go visit a mega-chain bookstore, and watch [_You've Got Mail_](http://youvegotmail.warnerbros.com/)
 {{< tdclose >}}
 
 {{< trclose >}}
